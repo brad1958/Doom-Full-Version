@@ -247,4 +247,4 @@ This repository serves as the official landing page for Doom. The software is di
 **Get the most recent version of Doom today!**
 
 ---
-**Last updated:** 2026-10-07 09:45:44 UTC
+**Last updated:** 2026-10-07 17:12:52 UTC
